@@ -1,0 +1,7 @@
+# README
+
+Rspec Test is inside single_variable_queue.rb
+
+To run the Rspec Test
+	> bundle install
+	> rspec single_variable_queue.rb 
